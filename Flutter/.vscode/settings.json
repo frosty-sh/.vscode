@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        ".idea": true,
+        ".metadata": true,
+        ".packages": true,
+        ".gitignore": true,
+        "README.md": true,
+        "pubspec.lock": true,
+        "quiz_app.iml": true,
+        "android": true,
+        "ios": true,
+        ".vscode": true,
+        "build": true,
+    }
+}
