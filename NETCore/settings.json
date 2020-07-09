@@ -12,5 +12,6 @@
          "**/*.Properties":true
     },
     "NETCore" : true,
-    "workbench.sideBar.location": "right"
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Default Dark+"
 }
